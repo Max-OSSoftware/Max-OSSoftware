@@ -24,17 +24,17 @@
 
 <br />
 
-Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, forever student. Apart from that I love getting involved in Competitive Hacking Programming and Problem Solving.❤✌
+Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, forever student. Apart from that I love getting involved in Competitive Hacking, Programming and Problem Solving.❤✌
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently .
-- 🌱 I’m currently learning.
+- 🔭 I’m currently looking for a remote position .
+- 🌱 I’m currently learning another .js library.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@szapboy216)
-- 📝[Portfolio](https://zapboy216.github.io/MyPortfolio/)
+- 📝[Portfolio](https://zapboy216.github.io/portfolio/)
 
 
 
@@ -49,7 +49,7 @@ Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, forever student. 
 **Languages and Tools:**
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
