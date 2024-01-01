@@ -32,7 +32,7 @@ Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, forever student. 
 - 🌱 I’m currently learning another .js library.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
+- 📫 How to reach me: Any of the Social-Media Platforms
 - ⚡ Check out my recent [Blogs](https://medium.com/@szapboy216)
 - 📝[Portfolio](https://zapboy216.github.io/portfolio/)
 
