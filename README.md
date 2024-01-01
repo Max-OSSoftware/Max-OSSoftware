@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+
+
+
+
+<img align="right" float="top" alt="GIF" src="https://github.com/zapboy216/cover/blob/master/images/zapboy216-hero.jpg" />
+
+
 ### Hello World 👋 
 
 <br/>
@@ -18,11 +24,7 @@
 
 <br />
 
-Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, forever student. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
-
-
-<img align="right" alt="GIF" src="https://github.com/zapboy216/cover/blob/master/images/zapboy216-hero.jpg" />
-
+Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, forever student. Apart from that I love getting involved in Competitive Hacking Programming and Problem Solving.❤✌
 
 **Talking about Personal Stuffs:**
 
