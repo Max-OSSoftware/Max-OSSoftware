@@ -24,11 +24,10 @@
 
 <br />
 
-Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, forever student. Apart from that I love getting involved in Competitive Hacking, Programming and Problem Solving.❤✌
+Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, forever student. Apart from that I love getting involved in Competitive Hacking, Building and Problem Solving.❤✌
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently seeking a remote position .
 - 🌱 I’m currently learning th latest .js library.
 - 👯 Part of Developer Community.
 - 💬 Ask me questions about anything, Would love to answer them.✌
