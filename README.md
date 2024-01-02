@@ -26,7 +26,7 @@
 
 Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, Forever Student. Apart from that I love getting involved in Competitive Hacking, Building and Problem Solving.❤✌
 
-**Talking about Personal Stuffs:**
+**A little about me:**
 
 - 🌱 I’m currently learning the latest .js library.
 - 👯 Part of Developer Community.
