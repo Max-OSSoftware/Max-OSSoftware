@@ -29,9 +29,9 @@ Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, forever student. 
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently seeking a remote position .
-- 🌱 I’m currently learning another .js library.
+- 🌱 I’m currently learning th latest .js library.
 - 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
+- 💬 Ask me questions about anything, Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platforms
 - ⚡ Check out my recent [Blogs](https://medium.com/@szapboy216)
 - 📝[Portfolio](https://zapboy216.github.io/portfolio/)
