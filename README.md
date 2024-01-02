@@ -28,7 +28,7 @@ Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, forever student. 
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning th latest .js library.
+- 🌱 I’m currently learning the latest .js library.
 - 👯 Part of Developer Community.
 - 💬 Ask me questions about anything, Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platforms
