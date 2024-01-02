@@ -46,4 +46,9 @@ Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, Forever Student. 
 - Coding Ninja
 
 **Languages and Tools:**
+
+
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,react,solidity,linux,html,css,bootstrap,materialui,tailwind,ai,d3,ps,cloudflare&perline=4)](https://skillicons.dev)
