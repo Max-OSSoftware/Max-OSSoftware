@@ -7,7 +7,6 @@
 
 ### Hello World 👋 
 
-<br/>
 
 
 <a href="https://twitter.com/zapboy216">
@@ -26,7 +25,7 @@
 
 Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, Forever Student. Apart from that I love getting involved in Competitive Hacking, Building and Problem Solving.❤✌
 
-**A little about me:**
+**About Me:**
 
 - 🌱 I’m currently learning the latest .js library.
 - 👯 Part of Hacking & Developer Communities.
