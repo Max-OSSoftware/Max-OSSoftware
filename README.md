@@ -27,10 +27,10 @@ Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, Forever Student. 
 
 **About Me:**
 
-- 🌱 I’m currently learning the latest .js library.
-- 👯 Part of Hacking & Developer Communities.
+- 🌱 I’m currently reviewing the latest .js library.
+- 👯 Part of hacking & developer communities.
 - 💬 Ask me questions about anything, Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platforms
+- 📫 How to reach me: any of the Social-Media Platforms
 - ⚡ Check out my recent [Blogs](https://medium.com/@szapboy216)
 - 📝[Portfolio](https://zapboy216.github.io/portfolio/)
 
