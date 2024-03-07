@@ -50,4 +50,4 @@ Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, Forever Student. 
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,vercel,materialui,netlify,tailwind,ai,d3,ps,cloudflare,firebase,bash,codepen,gulp,vscode,discord,twitter,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,vercel,materialui,netlify,tailwind,ai,d3,ps,cloudflare,firebase,bash,codepen,gulp,vscode,discord,twitter,github&perline=10)](https://skillicons.dev)
