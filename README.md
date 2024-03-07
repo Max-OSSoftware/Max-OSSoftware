@@ -23,7 +23,7 @@
 
 <br />
 
-Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, Forever Student. Apart from that I love getting involved in Competitive Hacking, Building and Problem Solving.❤✌
+Hi, I'm Gerald Dinan🙌, a Web Developer, Security Researcher, Forever Student. Apart from that I love getting involved in Competitive Hacking, the Newest and coolest trends.❤✌
 
 **About Me:**
 
@@ -45,6 +45,7 @@ Hi,I'm Gerald Dinan🙌, a Web Developer, Security Researcher, Forever Student. 
 - Coding Ninja
 
 **Languages and Tools:**
+Many
 
 
 
