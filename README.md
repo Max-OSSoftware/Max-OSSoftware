@@ -2,7 +2,6 @@
 
 
 
-<img align="right" float="top" alt="GIF" src="https://github.com/zapboy216/cover/blob/master/images/zapboy216-hero.jpg" />
 
 
 ### Hello World 👋 
