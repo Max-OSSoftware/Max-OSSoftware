@@ -50,4 +50,4 @@ Many
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,solidjs,alpinejs,bootstrap,vercel,materialui,netlify,tailwind,ai,d3,ps,cloudflare,firebase,bash,codepen,gulp,vscode,discord,twitter,github&perline=22)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,solidjs,alpinejs,bootstrap,vercel,materialui,netlify,tailwind,ai,d3,ps,cloudflare,firebase,bash,codepen,gulp,vscode,discord,twitter,github&perline=12)](https://skillicons.dev)
