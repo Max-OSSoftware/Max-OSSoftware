@@ -1,12 +1,4 @@
-
-
-
-
-
-
 ### Hello World 👋 
-
-
 
 <a href="https://twitter.com/zapboy216">
 <img align="left" alt="gerald dinan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -26,15 +18,12 @@ Hi, I'm Gerald Dinan🙌, a Freelance Web/Javascript Developer, Security Pentest
 
 **About Me:**
 
-- 🌱 I’m currently reviewing the latest .js library.
+- 🌱 I’m currently reviewing the latest .js library the latest framework is on my radar.
 - 👯 Part of hacking & developer communities.
 - 💬 Ask me questions about anything, Would love to answer them.✌
 - 📫 How to reach me: any of the Social-Media Platforms
 - ⚡ Check out my recent [Blogs](https://medium.com/@szapboy216)
 - 📝[Portfolio](https://zapboy216.github.io/portfolio/)
-
-
-
 
 **Community**
 - Github Developer Group
@@ -45,9 +34,5 @@ Hi, I'm Gerald Dinan🙌, a Freelance Web/Javascript Developer, Security Pentest
 
 **Languages and Tools:**
 Many
-
-
-
-
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,solidjs,alpinejs,bootstrap,vercel,materialui,netlify,tailwind,ai,d3,ps,cloudflare,firebase,bash,codepen,gulp,vscode,discord,twitter,github&perline=12)](https://skillicons.dev)
