@@ -18,7 +18,7 @@ Hi, I'm Gerald Dinan🙌, a Freelance Web/Javascript Developer, Security Pentest
 
 **About Me:**
 
-- 🌱 I’m currently reviewing the latest .js library the latest framework is on my radar.
+- 🌱 I’m currently reviewing the latest .js library/framework, the latest frameworks are always on my radar.
 - 👯 Part of hacking & developer communities.
 - 💬 Ask me questions about anything, Would love to answer them.✌
 - 📫 How to reach me: any of the Social-Media Platforms
