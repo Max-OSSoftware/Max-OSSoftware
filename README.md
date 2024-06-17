@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm Gerald Dinan🙌, a Freelance Web/Javascript Developer, Security Pentester, and Forever Student. I also love getting involved in Competitive Hacking, and the Newest and Coolest UI trends.❤✌
+Hi, I'm a Freelance Web/Javascript Developer, Security Pentester, and Forever Student. I also love getting involved in Competitive Hacking, and the Newest and Coolest UI trends.❤✌
 
 **About Me:**
 
