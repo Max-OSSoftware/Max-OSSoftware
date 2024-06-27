@@ -3,7 +3,7 @@
 
 
 
-Hi, I'm Max A Web/Javascript Developer, Security Pentester, and Forever Student. I also love getting involved in Competitive Hacking, and the Newest and Coolest UI trends.❤✌
+Hi, I'm Max A Javascript Developer, Security Pentester, and Forever Student. I also love getting involved in Competitive Hacking, and the Newest and Coolest UI trends.❤✌
 
 **About Me:**
 
