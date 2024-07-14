@@ -3,14 +3,6 @@
 
 
 
-Hi, I'm Max A Javascript Developer, Security Pentester, and Forever Student. I also love getting involved in Competitive Hacking, and the Newest and Coolest UI trends.❤✌
-
-**About Me:**
-
-- 🌱 I’m currently reviewing the latest .js library/framework, the latest frameworks are always on my radar.
-- 👯 Part of hacking & developer communities.
-- 💬 Ask me questions about anything, Would love to answer them.✌
-- 📝[Portfolio](https://zapboy216.github.io/portfolio/)
 
 **Community**
 - Github Developer Group
