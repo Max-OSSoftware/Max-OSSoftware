@@ -5,7 +5,7 @@
 
 
 **Community**
-- Open-Source
+- Open-Source-Supporter
 - Try hack me top 5%
 - React Community
 - Coding Ninja
