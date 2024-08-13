@@ -9,7 +9,7 @@ As I continue to grow and contribute, I'm open to sponsorships and donations to 
 
 👋 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,solidjs,alpinejs,bootstrap,vercel,materialui,netlify,tailwind,ai,d3,ps,cloudflare,firebase,bash,codepen,gulp,vscode,discord,twitter,github&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,vercel,materialui,netlify,tailwind,ai,ps,cloudflare,bash,codepen,gulp,vscode,discord,twitter,github&perline=12)](https://skillicons.dev)
 
 **Community**
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
