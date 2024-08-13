@@ -8,7 +8,7 @@ As I continue to grow and contribute, I'm open to sponsorships and donations to 
 👋 
 
 👋 
-**Languages and Tools:**
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,solidjs,alpinejs,bootstrap,vercel,materialui,netlify,tailwind,ai,d3,ps,cloudflare,firebase,bash,codepen,gulp,vscode,discord,twitter,github&perline=12)](https://skillicons.dev)
 
 **Community**
