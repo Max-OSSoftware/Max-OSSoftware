@@ -18,7 +18,7 @@ As I continue to grow and contribute, I'm open to sponsorships and donations to 
 - React Community
 - Coding Ninja
 - Github Developer Group
-- https://img.shields.io/badgejavascript-grey?style=for-the-badge&logo=javascript
+- (https://img.shields.io/badgejavascript-grey?style=for-the-badge&logo=javascript)
   
 
 
