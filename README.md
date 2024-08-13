@@ -1,6 +1,6 @@
 ### Hi, I'm Max 👋
 
-I'm a seasoned JavaScript developer with deep expertise in React and HTML. Over the years, I've worked on various private projects, primarily dealing with legacy systems. Recently, I've transitioned to open-source development, focusing on modern technologies and trends.
+I'm a seasoned JavaScript developer with deep expertise in React and HTML. Over the years, I've worked on various private projects, primarily dealing with legacy systems. Lately, I've transitioned to open-source development, focusing on modern technologies and trends.
 
 Recently, I've been fully remote, freelancing, and learning about the open-source community. My current focus is on creating testing libraries, web templates, boilerplates, and component libraries. I often clone, modify, and improve existing open-source projects or build some of my own from scratch. I'm also actively integrating AI into some of my projects and continuously learning the latest development and AI frameworks.
 
