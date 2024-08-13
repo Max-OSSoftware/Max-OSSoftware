@@ -1,4 +1,10 @@
-### Hello World 👋 
+### Hi, I'm [Max] 👋
+
+I'm a seasoned JavaScript developer with deep expertise in React and HTML. Over the years, I've worked on various private projects, primarily dealing with legacy systems. Recently, I've transitioned to open-source development, focusing on modern technologies and trends.
+
+For the past two years, I've been fully remote, freelancing, and contributing to the open-source community on GitHub. My current focus is on creating templates, boilerplates, and component libraries. I often clone, modify, and improve existing open-source projects or build my own from scratch. I'm also actively integrating AI into my projects and continuously learning the latest development frameworks, like Next.js.
+
+As I continue to grow and contribute, I'm open to sponsorships and donations to support my work in pushing the boundaries of today's technology. 👋 
 
 
 
