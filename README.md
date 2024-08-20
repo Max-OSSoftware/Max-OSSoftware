@@ -1,4 +1,4 @@
-### Hi, I'm Max 👋                   <img src="images/maxwell.png" style="float: right; margin-right: 10px; margin-bottom: 10px;" alt="Maxwell image">
+### Hi, I'm Max 👋                   <img src="images/maxwell.png" style="margin-right: 10px; margin-bottom: 100px;" alt="Maxwell image">
 
 I'm a seasoned JavaScript developer with deep expertise in React and HTML, and I also specialize in security testing and pentesting. Over the years, I've worked on various private projects, primarily dealing with legacy systems. Recently, I've transitioned to open-source development, focusing on today’s modern technologies and trends.
 
