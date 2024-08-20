@@ -1,4 +1,4 @@
-<img src="images/maxwell.png" style="margin-top: 5px;" alt="Maxwell image">
+<img src="images/maxwell.png" align="right" alt="Maxwell image">
 
 I'm a seasoned JavaScript developer with deep expertise in React and HTML, and I also specialize in security testing and pentesting. Over the years, I've worked on various private projects, primarily dealing with legacy systems. Recently, I've transitioned to open-source development, focusing on today’s modern technologies and trends.
 
